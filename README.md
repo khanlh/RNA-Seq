@@ -1,4 +1,4 @@
-# RNA-seq Nextflow Pipeline  
+# RNA-seq Nextflow Pipeline with Nextflow 
 
 ## 1. Basic Biological Background  
 
